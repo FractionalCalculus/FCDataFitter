@@ -35,3 +35,11 @@
 
 bazel-*
 bazel-*/*
+
+
+# Mac os specific
+.DS_Store
+
+# Clion Bazel Plugin specific
+.clwb
+.clwb/*
