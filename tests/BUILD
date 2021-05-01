@@ -5,7 +5,7 @@ cc_test(
   size = "small",
   srcs = glob(["*.cpp"]),
   deps = [
-    "@com_google_googletest//:gtest_main",
+    "@gtest//:gtest_main",
     "//lib:DataFitterLib"
   ],
 )
