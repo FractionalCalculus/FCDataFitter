@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Bazel's build directories
+
+bazel-*
+bazel-*/*
