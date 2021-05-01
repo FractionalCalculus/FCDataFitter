@@ -12,4 +12,4 @@ Finding ways to automate the FC regression problem might help in lots of areas.
 * Next write suitable FC differential regression equations and find appropriate parameters  
 * Finally solve the equation or plot the solution if the analytical solution is hard or nearly impossible.
 
-
+![equation](http://www.sciweavers.org/upload/Tex2Img_1619873081/eqn.png)
